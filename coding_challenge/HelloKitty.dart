@@ -14,8 +14,7 @@ void main() {
           ox14e = '1RM2Macy3m}Rz2opMle6upPhYVTbz}dLEEM9o{tnM}aTvSo8Xt';
 
   int ox1e = 0, 
-      ox2e = 1, 
-      ox3e; 
+      ox2e = 1; 
 
   String ox0m = '? + ? + ?';
     
